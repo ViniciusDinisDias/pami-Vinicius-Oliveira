@@ -1,10 +1,10 @@
 // 1. Introdução: Por que TypeScript?
 
 //* JavaScript (Sem tipagem):
-function somar(a, b) {
+function Somar(a, b) {
     return a + b;
-  }
-  console.log(somar(5, "10")); // Resultado inesperado: "510"
+}
+  console.log(Somar(5, "10")); // Resultado inesperado: "510"
   
   //* Em JavaScript, você pode passar qualquer tipo de dado para uma função, o que pode levar a erros inesperados.
   
