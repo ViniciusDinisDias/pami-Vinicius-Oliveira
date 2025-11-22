@@ -1,5 +1,5 @@
 
-# 📘  Criando um Projeto Expo (Guia Completo)**
+# 📘  Criando um Projeto Expo (Guia Completo)
 
 ## 🚀 **Introdução**
 
